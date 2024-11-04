@@ -1,1 +1,1 @@
-My current project is to create a website with recepies
+My current project is to create a website with recipes
